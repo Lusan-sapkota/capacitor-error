@@ -1,0 +1,7 @@
+{
+  "name": "Capacitor Error Copy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
